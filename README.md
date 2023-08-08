@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRealFalseReality
-- 👀 I’m interested in Androind Programming, HomeAssistant and ESPHOME development
+- 👀 I’m interested in Android Programming, HomeAssistant and ESPHOME development
 - 🌱 I’m currently learning Kotlin, Android SDK, JAVA, YAML
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me nicholaswhite@capitalcityaquatics.com
